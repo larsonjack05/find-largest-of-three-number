@@ -17,7 +17,7 @@ int main(void) {
   if(first_num>second_num){
     if(first_num>third_num){
       printf("%d",first_num);
-      printf(" second num is greatest");
+      printf(" first num is greatest");
     } else {
       printf("%d",third_num);
       printf(" - third num is greatest");
